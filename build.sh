@@ -1,0 +1,1 @@
+docker build ./src/ -f devops/docker/Dockerfile -t curity_dbmaint:dev
